@@ -117,7 +117,7 @@ If you're building <b>Agentic AI systems, RAG pipelines, or deploying AI-powered
 <a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/SAY%20HELLO-6f2cf4?style=for-the-badge&logo=protonmail&logoColor=white" />
 <a href="https://www.linkedin.com/in/rashidsaleem/" target="_blank">
-    <img src="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9teHxxOPTDipXki7xzVVbg%3D%3D" alt="LinkedIn" />
+    <img src="hhttps://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhW088u8rTfmnolfG910AOQ%3D%3D" alt="LinkedIn" />
 </a>
 </a>
   <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /
