@@ -25,7 +25,11 @@
 </td>
 
 <td width="35%" align="center">
-<a href="https://ibb.co/q3mg9bnH"><img src="https://i.ibb.co/nNQ1fh0X/rashid.jpg" alt="rashid" border="0"></a>
+<p align="center">
+  <a href="https://ibb.co/q3mg9bnH">
+    <img src="https://i.ibb.co/nNQ1fh0X/rashid.jpg" alt="Rashid" width="300px" />
+  </a>
+</p>
 </td>
 </tr>
 </table>
@@ -122,6 +126,14 @@ If you're building <b>Agentic AI systems, RAG pipelines, or deploying AI-powered
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2C,50:1B1464,100:6C1CD1&height=120&section=footer" width="100%" />
+
+</p>
+<!-- INTERACTIVE CALL TO ACTIONS -->
+<p align="center">
+  
+  &nbsp;&nbsp;
+
+  &nbsp;&nbsp;
 
 </p>
 
