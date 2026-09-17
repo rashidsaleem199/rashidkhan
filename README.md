@@ -25,9 +25,7 @@
 </td>
 
 <td width="35%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashidSaleem&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-
+<a href="https://ibb.co/q3mg9bnH"><img src="https://i.ibb.co/nNQ1fh0X/rashid.jpg" alt="rashid" border="0"></a>
 </td>
 </tr>
 </table>
@@ -101,28 +99,25 @@
 ## 🤝 Let's Build Something Great
 
 <p align="center">
-
 <b>I'm open to collaboration, freelance projects, and full-time AI/ML roles.</b>
-
 <br><br>
-
 If you're building <b>Agentic AI systems, RAG pipelines, or deploying AI-powered applications</b> — let's connect!
-
 </p>
 
 ---
 
 <p align="center">
-
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/SAY%20HELLO-6f2cf4?style=for-the-badge&logo=protonmail&logoColor=white" />
-<a href="https://www.linkedin.com/in/rashidsaleem/" target="_blank">
-    <img src="hhttps://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhW088u8rTfmnolfG910AOQ%3D%3D" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/SAY%20HELLO-6f2cf4?style=for-the-badge&logo=protonmail&logoColor=white" alt="Say Hello" />
 </a>
+<a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9teHxxOPTDipXki7xzVVbg%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-  <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-</a>
+</p>
+
   
 <p align="center">
 
